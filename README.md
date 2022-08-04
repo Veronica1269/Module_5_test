@@ -14,20 +14,7 @@ The study is based on data obtained in the form of a CSV file from PyBer. This d
 ## Results
 
 
-### 1. Total Fare by City Type
-
-The figure below shows the total fares for each city type between January to April (2019):
-
-![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
-
-
-From this chart, the quantity of money made by the service is fairly steady over this time period. Urban cities generate the most total revenue, followed by suburban and rural locations. The ratio of total fares between urban and suburban cities is around `2:1`, while the ratio of total fares between urban and rural cities is about `9:1`.
-
-The observed outcome is not surprising since urban cities are expected to generate more revenue. They have more population than suburban or rural locations.
-
-
-
-### 2. Summary Dataframe by City Type
+### 1. Summary Dataframe by City Type
 
 
 The figure below indicate the total number of rides, total number of drivers, total fares for each city type, average fare per ride, and average fare per driver for each city type. 
@@ -43,8 +30,21 @@ The difference between "Average Fare per Driver" is even larger because the diff
 
 
 
+### 2. Total Fare by City Type
 
-### 3. Summary
+The figure below shows the total fares for each city type between January to April (2019):
+
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
+
+
+From this chart, the quantity of money made by the service is fairly steady over this time period. Urban cities generate the most total revenue, followed by suburban and rural locations. The ratio of total fares between urban and suburban cities is around 2:1, while the ratio of total fares between urban and rural cities is about 9:1.
+
+The observed outcome is not surprising since urban cities are expected to generate more revenue. They have more population than suburban or rural locations.
+
+
+
+
+## Summary
 
 
 In conclusion:
